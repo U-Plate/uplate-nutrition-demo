@@ -1,0 +1,6071 @@
+{
+  "restaurant": "QDOBA",
+  "source": "https://boilerbites.com/purdue/restaurants/restaurant-46852a7b-49e5-4a76-9c15-a2d959c51939/menu",
+  "items": [
+    {
+      "id": "menuitem-03c0dcb9-1666-4ff8-b4e2-10682e2a5539",
+      "name": "1% Milk",
+      "category": "Drinks",
+      "foods": [],
+      "possibleFoods": [
+        {
+          "foodId": "food-7013a6d4-db29-4ee5-8ba9-b963f9ec6d04",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-91bdb1eb-f14d-4c46-9cc1-27baea09cf1e",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-06593abd-656c-4d81-93ca-93d22ca72081",
+      "name": "Create Your Own Mini Bowl",
+      "category": "Entrées",
+      "foods": [],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0084330-7257-4324-972f-dff9e82b2b92",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-14151c1e-4ae8-4225-a32d-9c1423353460",
+      "name": "Steak Fajita Quesadilla",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-aa41d21f-2956-4d9f-9721-a8263e45cb71",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-16597d05-ce54-4404-9c5a-e7c107d598d2",
+      "name": "Jarritos Pineapple",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-750c3503-989e-45c4-ad83-f89b3428782e",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-252eb758-1ca1-44cb-9066-bb9a3b202ace",
+      "name": "Street Style Pork Carnitas Tacos",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-2f3f5d0f-811a-43c8-b910-b9aa957b9ab3",
+          "quantity": 3.01
+        },
+        {
+          "foodId": "food-6fb36844-8026-4986-9b11-e8e153fab614",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6afcee1c-178c-4f5b-b863-c1b60f73d8be",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-27019383-5e17-4c1c-a5bb-c02c3dac96db",
+      "name": "Create Your Own Bowl",
+      "category": "Entrées",
+      "foods": [],
+      "possibleFoods": [
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-2f80275e-90f2-41fa-b41c-d638ad32db2a",
+      "name": "Hand-Crafted Guacamole & Chips",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+              "quantity": 1.01
+            },
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+              "quantity": 2.01
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-3256059a-6459-45f4-956a-27ecac091750",
+      "name": "Side of Cilantro Lime Rice",
+      "category": "Sides",
+      "foods": [
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-33c33693-6a5e-4a53-a431-fb1ec9d045e5",
+      "name": "Side of Brown Rice",
+      "category": "Sides",
+      "foods": [
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-3564a51e-6108-48dc-b03f-843a0468bcf3",
+      "name": "Honest Apple Juice Box",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-c3dbd12b-2016-4cc5-9ca1-909c552ee939",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-3ad1bb91-adeb-4246-ad35-b1aac5fdb8db",
+      "name": "Chicken Queso Burrito",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-11140da2-d697-4eb5-aede-ea220e2be5b3",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-4a76a292-ed15-41d8-b81a-efeeaeac1d21",
+      "name": "Side of Black Beans",
+      "category": "Sides",
+      "foods": [
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-4ec42d2b-bcc6-4f2a-b870-5724ea123eec",
+      "name": "QuesaBirria Burrito",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-3e3a0083-f213-43f6-a522-14860252d0b6",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-5582b3e1-d1d2-4e57-aa8c-a3e31262a337",
+      "name": "Lemonade",
+      "category": "Drinks",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [],
+          "possibleFoods": [
+            {
+              "foodId": "food-2ee8ef38-a2ae-47df-8143-3ab973050804",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-2fdc1228-1e33-43b4-85d8-125d494b5393",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "Large",
+          "foods": [],
+          "possibleFoods": [
+            {
+              "foodId": "food-f638c82e-07f7-4128-b9a9-c6e692b20b3c",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-7a72209f-6a9e-498c-9205-f113961417cf",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "menuitem-595c9c67-eb59-45a1-9923-4b76c507d370",
+      "name": "Create Your Own Quesadilla",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-aa41d21f-2956-4d9f-9721-a8263e45cb71",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-6125e5cd-bfb1-4e32-9e18-f63522a5d090",
+      "name": "3-Cheese Queso & Chips",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+              "quantity": 2.01
+            },
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-682c1101-c467-46e8-bc2d-cb091258825a",
+      "name": "Jarritos Mandarin",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-c2f29195-ca9d-4208-97d1-297da457bf2a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-19307f87-19f7-42d1-9223-572ce0e4c83d",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-68877143-7536-4717-b39d-d77a7a6f77c9",
+      "name": "Salsa & Chips",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": [
+            {
+              "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+              "quantity": 4.01
+            },
+            {
+              "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+              "quantity": 4.01
+            },
+            {
+              "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+              "quantity": 4.01
+            },
+            {
+              "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+              "quantity": 4.01
+            },
+            {
+              "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+              "quantity": 4.01
+            }
+          ]
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": [
+            {
+              "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+              "quantity": 8.01
+            },
+            {
+              "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+              "quantity": 8.01
+            },
+            {
+              "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+              "quantity": 8.01
+            },
+            {
+              "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+              "quantity": 8.01
+            },
+            {
+              "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+              "quantity": 8.01
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "menuitem-6b568e08-fbef-4b4e-b807-25b163705cbc",
+      "name": "Vitamin Water XXX",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-1f7698e9-1d55-4b27-8a8d-585fc61038d7",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-6d98369b-f443-4416-8fcc-2c211f057a9e",
+      "name": "Side of Salsa",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 4.01
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 4.01
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 4.01
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 4.01
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 4.01
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-7611c7aa-1bbe-4c10-9207-47006e5cc5e9",
+      "name": "Side of Queso Diablo",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+              "quantity": 2.01
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-7c25d2d1-d2da-40f0-87a5-cd11ccb70f69",
+      "name": "Create Your Own 3-Cheese Nachos",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-8240e897-cc81-436b-9b24-6e6f38617c91",
+      "name": "Smoky Chicken Cheese-Crusted Quesadilla",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-aa41d21f-2956-4d9f-9721-a8263e45cb71",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-827731c7-b0a8-42e4-9ece-cf85bb6de75f",
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "foods": [
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-86e67e30-5a14-433b-9043-0985247d0e0a",
+      "name": "Create Your Own Burrito",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-18d8ff9f-179b-4769-b168-b1880938100a",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-8a17579e-ce52-46ce-9844-d22f32633c6b",
+      "name": "Create Your Own 3 Tacos",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-2f3f5d0f-811a-43c8-b910-b9aa957b9ab3",
+          "quantity": 3.01
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6afcee1c-178c-4f5b-b863-c1b60f73d8be",
+          "quantity": 1.01
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-8aa06979-da94-4cce-ba7f-f9314f98b9db",
+      "name": "Jarritos Lime",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-2eb05cfa-5ea2-43e2-b607-6d28040d71a5",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-916ad05e-42c0-435b-80f1-7de385905bc2",
+      "name": "Fountain Drink",
+      "category": "Drinks",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [],
+          "possibleFoods": [
+            {
+              "foodId": "food-d13a81c5-9646-4f71-8d3a-74b8fbd05ce5",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-2ee8ef38-a2ae-47df-8143-3ab973050804",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-851b88f8-6cf9-4325-b3ef-d350b1b9396e",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-1a53b17e-d3d4-49d3-8c61-02f879603457",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-671aca37-3b78-4ad4-9c42-3097833f285c",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-a5510127-6866-4e82-bb82-87a195324b08",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-c7af1b8b-c027-4c21-9e9e-fea3c16e09b2",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-c9769811-1084-43fc-a10f-fd421d3abfa8",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-170ae7f9-9b20-44a9-b36b-5ca9bd54fb52",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-17371e69-e98a-4d7f-95d6-aaa6c18258da",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-e1cf99b8-aa82-4a20-8965-39456c1fad0b",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-257e64eb-53ff-4938-ae6d-3a8b07d619fc",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-2fdc1228-1e33-43b4-85d8-125d494b5393",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-c622cdaf-b4fc-4c76-b7cc-7365a657f435",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-5872c90f-4f76-4d63-98f3-731d85faebb4",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-dba08e58-4153-4b20-b711-22418d7ab69f",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-4c8e7b4a-310a-47d9-8041-3e7841fe4ad4",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-ec92ff28-1f25-455e-9d13-bf0be561a93e",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "name": "Large",
+          "foods": [],
+          "possibleFoods": [
+            {
+              "foodId": "food-babcca03-7ec9-40e4-bec3-744b0f5a8e33",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-92b8f716-5e2f-434b-91ed-cb84ec302b79",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-2318a2c5-7d82-49ad-992e-a8516755d459",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-9609eb47-cee1-4d0a-8a65-e1e290d08ec5",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-22268a66-0363-4012-95ee-82acce9d7de5",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-531b8405-c65c-470d-8ebf-6ca89f52404d",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-7b8b55e6-68f9-4503-855d-e80a7231e719",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-cdf32062-9cac-4d51-b41c-98d5bbf6e70a",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-f638c82e-07f7-4128-b9a9-c6e692b20b3c",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-04c238e4-874e-4809-83a2-7b2f0cef7554",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-f5fd7cbe-25ae-4fbe-b5a4-97b286977248",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-6e17bba9-03ab-4a1c-ab12-782783f60249",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-b7a34511-f066-4d97-9959-3de8c8476ab9",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-fcc1259b-c43b-46ba-b7d9-b4e8c885c202",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-908f0057-4844-498d-afa1-47fb296041f7",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-7a72209f-6a9e-498c-9205-f113961417cf",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-3be3ad06-94d0-4d45-aa82-af84d2543928",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-963e9551-35a5-4ade-873c-f53ae2479be1",
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "menuitem-955b544b-5191-4cad-a25d-66096a71f788",
+      "name": "Mexican Coke",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-8b702b64-bea0-4219-b35b-691598b5d52c",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-9cccdb10-c904-4545-a4cd-503a2d564eef",
+      "name": "Cholula® Hot & Sweet Chicken Bowl",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-64623560-3ceb-4d3b-b899-7ef8e0280406",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-49dc0d79-2e86-4526-a400-31efc51ace3f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-a9ea03a0-e558-499d-8dc7-f7c1c60fb665",
+      "name": "Fajita Veggie Post-Workout Bowl",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-75ca96ef-70fe-4beb-a40b-b1d1cf1e6184",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-ae953aba-20f5-4328-876e-96f558ac143e",
+      "name": "Create Your Own Cheese-Crusted Quesadilla",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-aa41d21f-2956-4d9f-9721-a8263e45cb71",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-b0dcf9c1-0ddc-4c9b-ac79-0dd86c463c2b",
+      "name": "Gold Peak Black Unsweetened",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-4f26e64a-e7c5-4e8e-a09b-6772fd750b97",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-b329957b-e07e-43df-b059-7afdb4939950",
+      "name": "Create Your Own Surf & Turf Bowl",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-28778966-6744-48b3-b5bd-2a0dd60ccf26",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-b498a846-e80d-4966-9d36-775f9c20d731",
+      "name": "Citrus Lime Chicken Salad",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-439abeea-2ea5-470d-8612-481470117c0f",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-bfd5bf23-04bb-43f0-861f-dfc4a4d194e1",
+      "name": "Chocolate Chunk Cookie",
+      "category": "Desserts",
+      "foods": [
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-c26877ec-ab8e-43fe-94e7-5f0a1bb23ce8",
+      "name": "Street Style Chicken Tacos",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-2f3f5d0f-811a-43c8-b910-b9aa957b9ab3",
+          "quantity": 3.01
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-980e073e-1e28-4f82-8054-6644d9980504",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-6afcee1c-178c-4f5b-b863-c1b60f73d8be",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-49dc0d79-2e86-4526-a400-31efc51ace3f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-c531a861-d224-4033-90f4-c455ffacface",
+      "name": "Create Your Own Salad",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b8ef2021-b8f8-45d1-ab3a-1a214767404c",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-46c04df9-4ade-4d8f-914b-1169904ee205",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-cae9a9b2-d1b9-4a38-9549-88be9399247e",
+      "name": "Chicken Queso Bowl",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-8672a955-4ba2-4bfc-9138-a8b20f003a53",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-cc12ac05-6e58-43c1-8d4c-0eb2561cb561",
+      "name": "Create Your Own Taco",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-2f3f5d0f-811a-43c8-b910-b9aa957b9ab3",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 0.33
+        },
+        {
+          "foodId": "food-6afcee1c-178c-4f5b-b863-c1b60f73d8be",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-6f11b8b7-8e2d-4480-a59d-c974a230629b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b925eba9-38c9-47c5-89d1-c13905056b90",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-cc7d4690-b17e-4010-a42b-fd64859fec88",
+      "name": "Southwest Steak Burrito",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-c961da8e-92e7-4270-b625-557ab492a7e8",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d5e3bf91-93c3-4694-96fb-24b9b666902d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e3aaa59-85ac-47f4-8909-683a970ea74e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-58fab33a-40cf-4fab-b83a-9bfa31074e07",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-0a403bed-92b8-4d45-afe7-b83b4c73245e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f57d0476-dc07-45ce-b532-63410d97c90d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9430d01a-274f-412b-94c1-f80e57baa731",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-cdc3b12d-76d9-4090-bcb2-f594d43a8bc2",
+      "name": "Side of 3-Cheese Queso",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+              "quantity": 1.01
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-d63699c2-aeb2-4737-937a-aa25ac674abd",
+      "name": "Double Protein Post-Workout Bowl",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-14903b26-3759-457a-a86e-2ad0208818d6",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5be47265-a915-4472-bf65-7cd3869f412e",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-c8922d01-3151-4022-a0e8-580302f93b03",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dfd32f46-7a98-480d-a42c-453361d9bc1c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9dddbe9f-deed-46f3-9400-0b210125f338",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb9d497-f7bd-4470-a264-1b591e787b2d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-a0878639-4532-45f8-80ca-5faf3c61563d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-d9602156-ed78-4f26-b030-86e3a3395e03",
+      "name": "Side of Guacamole",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+              "quantity": 1
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-dadb7b22-b9c6-4be6-8edc-e417103674de",
+      "name": "Queso Diablo & Chips",
+      "category": "Sides",
+      "foods": [],
+      "possibleFoods": [],
+      "sizes": [
+        {
+          "name": "Regular",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+              "quantity": 2.01
+            }
+          ],
+          "possibleFoods": []
+        },
+        {
+          "name": "Large",
+          "foods": [
+            {
+              "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+              "quantity": 1
+            },
+            {
+              "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+              "quantity": 4.01
+            }
+          ],
+          "possibleFoods": []
+        }
+      ]
+    },
+    {
+      "id": "menuitem-e445b55a-7cfc-453d-837c-dda5942985fe",
+      "name": "Gold Peak Green Tea",
+      "category": "Drinks",
+      "foods": [
+        {
+          "foodId": "food-e1bfed56-9178-4f40-952d-f2ca8c4fedc9",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-e844cb88-57b1-4583-8b27-6bf7c4dc5da9",
+      "name": "QuesaBirria Quesadilla",
+      "category": "Entrées",
+      "foods": [
+        {
+          "foodId": "food-210f6844-1e8f-403a-b5e7-adc330570bac",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [
+        {
+          "foodId": "food-5abaf381-5548-4804-a6b3-1bb923425bba",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-feb1a981-34ad-499c-88c8-d206e44c7208",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-5486c2db-9466-46b6-b484-19be9296bb91",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-dee90862-3845-41c1-8151-8fc342a333ca",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-972c709f-887a-48d9-baf6-6a6b8721fe4c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f38d3d8d-608f-4b49-9ff2-071616e1682f",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-d51a1799-d80b-4a99-9618-888fc63ec818",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-7e0ea2da-a859-44e6-917a-d34b21455a0a",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-193f0946-aeb2-45ff-8e89-4f934ef9823c",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-f9c08475-d649-47ed-9d6c-641ee4a2291d",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-fbf92b87-64fd-4154-8a7c-3af654ac1725",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-ac362b77-8e64-4676-b159-804f9029b1f5",
+          "quantity": 1
+        },
+        {
+          "foodId": "food-b9d19cb9-c568-453d-a7d0-968c148349ee",
+          "quantity": 1
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "id": "menuitem-f5e4924c-4714-465c-b742-180b431c5f71",
+      "name": "Churro Chips",
+      "category": "Desserts",
+      "foods": [
+        {
+          "foodId": "food-7addfcf8-110e-4724-ad82-5c59622fdd45",
+          "quantity": 1
+        }
+      ],
+      "possibleFoods": [],
+      "sizes": []
+    }
+  ],
+  "foods": {
+    "food-7013a6d4-db29-4ee5-8ba9-b963f9ec6d04": {
+      "name": "Milk, White lowfat 1% (8 fl. oz.)",
+      "servingSize": "8 fl oz",
+      "nutritionFacts": {
+        "calories": 100,
+        "caloriesFromFat": -1,
+        "protein": 8,
+        "carbs": 12,
+        "fat": 2.5,
+        "saturatedFat": 1.5,
+        "sugar": 12,
+        "addedSugars": -1,
+        "sodium": 105,
+        "dietaryFiber": 0,
+        "cholesterol": 10,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-91bdb1eb-f14d-4c46-9cc1-27baea09cf1e": {
+      "name": "Milk, Chocolate lowfat 1% (8 fl. oz.)",
+      "servingSize": "8 fl oz",
+      "nutritionFacts": {
+        "calories": 160,
+        "caloriesFromFat": -1,
+        "protein": 9,
+        "carbs": 25,
+        "fat": 2.5,
+        "saturatedFat": 1,
+        "sugar": 24,
+        "addedSugars": -1,
+        "sodium": 160,
+        "dietaryFiber": 0,
+        "cholesterol": 15,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-7e3aaa59-85ac-47f4-8909-683a970ea74e": {
+      "name": "Cholula Hot & Sweet Chicken (3.5oz)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 190,
+        "caloriesFromFat": -1,
+        "protein": 16,
+        "carbs": 10,
+        "fat": 10,
+        "saturatedFat": 2.5,
+        "sugar": 8,
+        "addedSugars": -1,
+        "sodium": 540,
+        "dietaryFiber": 1,
+        "cholesterol": 75,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-cdd806af-2cec-4bcd-b40c-f4558b836d8b": {
+      "name": "Grilled Adobo Chicken (3.5 oz.)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 190,
+        "caloriesFromFat": -1,
+        "protein": 19,
+        "carbs": 2,
+        "fat": 12,
+        "saturatedFat": 3.5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 440,
+        "dietaryFiber": 0.45,
+        "cholesterol": 90,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-f57d0476-dc07-45ce-b532-63410d97c90d": {
+      "name": "Pork Carnitas (3.5 oz.)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 110,
+        "caloriesFromFat": -1,
+        "protein": 14,
+        "carbs": 0,
+        "fat": 4.5,
+        "saturatedFat": 2.5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 560,
+        "dietaryFiber": 0,
+        "cholesterol": 45,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-58fab33a-40cf-4fab-b83a-9bfa31074e07": {
+      "name": "Ground Beef (3.5 oz.)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 180,
+        "caloriesFromFat": -1,
+        "protein": 16,
+        "carbs": 4,
+        "fat": 11,
+        "saturatedFat": 5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 610,
+        "dietaryFiber": 1,
+        "cholesterol": 40,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-0747caa7-2f5b-4218-b8e4-bfc10cb97419": {
+      "name": "Brisket Birria (3.5 oz)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 140,
+        "caloriesFromFat": -1,
+        "protein": 15,
+        "carbs": 3,
+        "fat": 7,
+        "saturatedFat": 3,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 450,
+        "dietaryFiber": 0,
+        "cholesterol": 50,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a0084330-7257-4324-972f-dff9e82b2b92": {
+      "name": "Grilled Steak (1.75 oz.)",
+      "servingSize": "50g",
+      "nutritionFacts": {
+        "calories": 180,
+        "caloriesFromFat": -1,
+        "protein": 10,
+        "carbs": 2,
+        "fat": 14,
+        "saturatedFat": 5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 300,
+        "dietaryFiber": 0,
+        "cholesterol": 40,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-d5e3bf91-93c3-4694-96fb-24b9b666902d": {
+      "name": "Seasoned Brown Rice (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 90,
+        "caloriesFromFat": -1,
+        "protein": 2,
+        "carbs": 18,
+        "fat": 1,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 125,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-56d966b5-9c05-44a8-a5a2-81b5f127bf51": {
+      "name": "Cilantro Lime Rice (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 90,
+        "caloriesFromFat": -1,
+        "protein": 2,
+        "carbs": 19,
+        "fat": 1.5,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 190,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-dfd32f46-7a98-480d-a42c-453361d9bc1c": {
+      "name": "Black Beans (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 70,
+        "caloriesFromFat": -1,
+        "protein": 5,
+        "carbs": 12,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 170,
+        "dietaryFiber": 7,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-9dddbe9f-deed-46f3-9400-0b210125f338": {
+      "name": "Pinto Beans (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 70,
+        "caloriesFromFat": -1,
+        "protein": 4,
+        "carbs": 12,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 180,
+        "dietaryFiber": 7,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-9eeadc04-14c0-4e67-894a-e2e4f3fa9eb1": {
+      "name": "Queso Diablo (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 90,
+        "caloriesFromFat": -1,
+        "protein": 2,
+        "carbs": 3,
+        "fat": 7,
+        "saturatedFat": 5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 320,
+        "dietaryFiber": 0,
+        "cholesterol": 15,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-193f0946-aeb2-45ff-8e89-4f934ef9823c": {
+      "name": "Three Cheese Queso (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 80,
+        "caloriesFromFat": -1,
+        "protein": 3,
+        "carbs": 3,
+        "fat": 8,
+        "saturatedFat": 5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 340,
+        "dietaryFiber": 0,
+        "cholesterol": 20,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-dee90862-3845-41c1-8151-8fc342a333ca": {
+      "name": "Hand Crafted Guacamole (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 80,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 8,
+        "saturatedFat": 1,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 160,
+        "dietaryFiber": 4,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2d094e86-a7ec-4a3c-a663-0c3c58d2aa89": {
+      "name": "Pickled Red Onion (0.8 oz)",
+      "servingSize": "23g",
+      "nutritionFacts": {
+        "calories": 10,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 3,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 75,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-b925eba9-38c9-47c5-89d1-c13905056b90": {
+      "name": "Pickled Jalapenos (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 15,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 3,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 90,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a24cf826-f8ea-4661-ac40-8fdf222a24a4": {
+      "name": "Fajita Veggies (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 40,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 3,
+        "fat": 3,
+        "saturatedFat": 0,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 115,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-3b02e0c1-469c-4fa3-bf35-93f6953b3b7d": {
+      "name": "Shredded Cheese (0.5 oz.)",
+      "servingSize": "14g",
+      "nutritionFacts": {
+        "calories": 60,
+        "caloriesFromFat": -1,
+        "protein": 3,
+        "carbs": 0,
+        "fat": 4.5,
+        "saturatedFat": 2.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 90,
+        "dietaryFiber": 0,
+        "cholesterol": 15,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-6f11b8b7-8e2d-4480-a59d-c974a230629b": {
+      "name": "Shredded Cheese (1.0 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 110,
+        "caloriesFromFat": -1,
+        "protein": 7,
+        "carbs": 1,
+        "fat": 9,
+        "saturatedFat": 5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 180,
+        "dietaryFiber": 0,
+        "cholesterol": 30,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-5abaf381-5548-4804-a6b3-1bb923425bba": {
+      "name": "Sour Cream (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 50,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 3,
+        "fat": 5,
+        "saturatedFat": 3,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 10,
+        "dietaryFiber": 0,
+        "cholesterol": 15,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a0878639-4532-45f8-80ca-5faf3c61563d": {
+      "name": "Romaine Lettuce (0.25 oz.)",
+      "servingSize": "7g",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a81e2e10-28a0-49e2-bb69-45a8d5d17ae7": {
+      "name": "Cotija Cheese (.25 oz.)",
+      "servingSize": "7g",
+      "nutritionFacts": {
+        "calories": 25,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 0,
+        "fat": 2,
+        "saturatedFat": 1.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 95,
+        "dietaryFiber": 0,
+        "cholesterol": 5,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-20506207-68d9-44fb-9b8a-472c6cf9d9ee": {
+      "name": "Tortilla Strips (0.5 oz.)",
+      "servingSize": "14g",
+      "nutritionFacts": {
+        "calories": 70,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 8,
+        "fat": 4.5,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 35,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-670c0d19-10e0-40e7-a5ec-a8c13e49f914": {
+      "name": "Chopped Cilantro (.12 oz)",
+      "servingSize": "3g",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-4ab6a1e6-e92d-4be6-9ae5-2d3e9d1ce955": {
+      "name": "Salsa Roja (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 5,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 2,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 85,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-972c709f-887a-48d9-baf6-6a6b8721fe4c": {
+      "name": "Salsa Verde (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 10,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 240,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-f38d3d8d-608f-4b49-9ff2-071616e1682f": {
+      "name": "Chile Corn Salsa (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 25,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 5,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 75,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-911ae32c-9fc4-4a50-a935-ac6a9e388bc2": {
+      "name": "Roasted Tomato Salsa (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 5,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 1,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 190,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-9430d01a-274f-412b-94c1-f80e57baa731": {
+      "name": "Chile Crema (1 oz)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 130,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 1,
+        "fat": 14,
+        "saturatedFat": 2,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 290,
+        "dietaryFiber": 0,
+        "cholesterol": 10,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-feb9d497-f7bd-4470-a264-1b591e787b2d": {
+      "name": "Pico de Gallo (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 5,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 1,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 70,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a5acdc24-a354-4b69-bf57-db89cdcd2fcc": {
+      "name": "Citrus Vinaigrette (1.5 oz.)",
+      "servingSize": "43g",
+      "nutritionFacts": {
+        "calories": 100,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 7,
+        "fat": 8,
+        "saturatedFat": 0.5,
+        "sugar": 5,
+        "addedSugars": -1,
+        "sodium": 330,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-e97756ed-1c8d-4304-a158-4d2f7ad798b5": {
+      "name": "Picante Ranch Dressing (1.5 oz.)",
+      "servingSize": "43g",
+      "nutritionFacts": {
+        "calories": 80,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 3,
+        "fat": 8,
+        "saturatedFat": 2,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 180,
+        "dietaryFiber": 0,
+        "cholesterol": 15,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-b929bbc7-43b0-4faf-b82a-fcf988c4c064": {
+      "name": "Habanero Salsa (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 10,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 2,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 110,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-feb1a981-34ad-499c-88c8-d206e44c7208": {
+      "name": "Tortilla Chips (2 oz.)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 280,
+        "caloriesFromFat": -1,
+        "protein": 3,
+        "carbs": 37,
+        "fat": 13,
+        "saturatedFat": 2,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 110,
+        "dietaryFiber": 5,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-ecb4efc3-526c-4a1f-a238-1ab90852ede2": {
+      "name": "Hand Crafted Guacamole (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 170,
+        "caloriesFromFat": -1,
+        "protein": 2,
+        "carbs": 9,
+        "fat": 15,
+        "saturatedFat": 2,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 330,
+        "dietaryFiber": 7,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-d51a1799-d80b-4a99-9618-888fc63ec818": {
+      "name": "Three Cheese Queso (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 170,
+        "caloriesFromFat": -1,
+        "protein": 6,
+        "carbs": 5,
+        "fat": 17,
+        "saturatedFat": 11,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 670,
+        "dietaryFiber": 0,
+        "cholesterol": 40,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-7e0ea2da-a859-44e6-917a-d34b21455a0a": {
+      "name": "Three Cheese Queso (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 40,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 1,
+        "fat": 4,
+        "saturatedFat": 2.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 170,
+        "dietaryFiber": 0,
+        "cholesterol": 10,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-edcbf3f0-a3f2-4233-9ab1-a16cd8b4b0f9": {
+      "name": "Cilantro Lime Rice (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 190,
+        "caloriesFromFat": -1,
+        "protein": 3,
+        "carbs": 38,
+        "fat": 2.5,
+        "saturatedFat": 0.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 390,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-f9c08475-d649-47ed-9d6c-641ee4a2291d": {
+      "name": "Seasoned Brown Rice (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 170,
+        "caloriesFromFat": -1,
+        "protein": 4,
+        "carbs": 36,
+        "fat": 1.5,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 250,
+        "dietaryFiber": 2,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-fbf92b87-64fd-4154-8a7c-3af654ac1725": {
+      "name": "Black Beans (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 140,
+        "caloriesFromFat": -1,
+        "protein": 9,
+        "carbs": 24,
+        "fat": 1,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 330,
+        "dietaryFiber": 14,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c8922d01-3151-4022-a0e8-580302f93b03": {
+      "name": "Pinto Beans (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 130,
+        "caloriesFromFat": -1,
+        "protein": 8,
+        "carbs": 23,
+        "fat": 1,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 350,
+        "dietaryFiber": 14,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-7addfcf8-110e-4724-ad82-5c59622fdd45": {
+      "name": "Churro Chips",
+      "servingSize": "64g",
+      "nutritionFacts": {
+        "calories": 320,
+        "caloriesFromFat": 140,
+        "protein": 5,
+        "carbs": 40,
+        "fat": 16,
+        "saturatedFat": 3,
+        "sugar": 10,
+        "addedSugars": -1,
+        "sodium": 110,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-5486c2db-9466-46b6-b484-19be9296bb91": {
+      "name": "Tortilla Chips (4 oz.)",
+      "servingSize": "113g",
+      "nutritionFacts": {
+        "calories": 560,
+        "caloriesFromFat": -1,
+        "protein": 7,
+        "carbs": 75,
+        "fat": 26,
+        "saturatedFat": 4.5,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 220,
+        "dietaryFiber": 9,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-ac362b77-8e64-4676-b159-804f9029b1f5": {
+      "name": "Chocolate Chunk Cookie (US)",
+      "servingSize": "57g",
+      "nutritionFacts": {
+        "calories": 250,
+        "caloriesFromFat": -1,
+        "protein": 3,
+        "carbs": 33,
+        "fat": 12,
+        "saturatedFat": 6,
+        "sugar": 20,
+        "addedSugars": -1,
+        "sodium": 300,
+        "dietaryFiber": 1,
+        "cholesterol": 20,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-b9d19cb9-c568-453d-a7d0-968c148349ee": {
+      "name": "Double Chocolate Brownie (US)",
+      "servingSize": "91g",
+      "nutritionFacts": {
+        "calories": 390,
+        "caloriesFromFat": -1,
+        "protein": 6,
+        "carbs": 49,
+        "fat": 19,
+        "saturatedFat": 4,
+        "sugar": 36,
+        "addedSugars": -1,
+        "sodium": 150,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-aa41d21f-2956-4d9f-9721-a8263e45cb71": {
+      "name": "Flour Tortilla (10\")",
+      "servingSize": "71g",
+      "nutritionFacts": {
+        "calories": 210,
+        "caloriesFromFat": -1,
+        "protein": 6,
+        "carbs": 36,
+        "fat": 5,
+        "saturatedFat": 2,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 490,
+        "dietaryFiber": 2,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-0a403bed-92b8-4d45-afe7-b83b4c73245e": {
+      "name": "Grilled Steak (3.5 oz.)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 360,
+        "caloriesFromFat": -1,
+        "protein": 20,
+        "carbs": 5,
+        "fat": 28,
+        "saturatedFat": 10,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 600,
+        "dietaryFiber": 0.66,
+        "cholesterol": 85,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-750c3503-989e-45c4-ad83-f89b3428782e": {
+      "name": "Jarritos Pineapple (12.5 fl. oz)",
+      "servingSize": "12.5 fl oz",
+      "nutritionFacts": {
+        "calories": 140,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 35,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 35,
+        "addedSugars": -1,
+        "sodium": 45,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2f3f5d0f-811a-43c8-b910-b9aa957b9ab3": {
+      "name": "Flour Tortilla (5.5\")",
+      "servingSize": "24g",
+      "nutritionFacts": {
+        "calories": 70,
+        "caloriesFromFat": -1,
+        "protein": 2,
+        "carbs": 12,
+        "fat": 1.5,
+        "saturatedFat": 0.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 170,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-6fb36844-8026-4986-9b11-e8e153fab614": {
+      "name": "Street Style Pork Carnitas Tacos (3) Flour",
+      "servingSize": "238g",
+      "nutritionFacts": {
+        "calories": 370,
+        "caloriesFromFat": -1,
+        "protein": 23,
+        "carbs": 38,
+        "fat": 13,
+        "saturatedFat": 6,
+        "sugar": 3,
+        "addedSugars": -1,
+        "sodium": 1500,
+        "dietaryFiber": 4,
+        "cholesterol": 55,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-6afcee1c-178c-4f5b-b863-c1b60f73d8be": {
+      "name": "Crispy Taco Shell",
+      "servingSize": "13g",
+      "nutritionFacts": {
+        "calories": 60,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 8,
+        "fat": 2.5,
+        "saturatedFat": 0.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 1,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c3dbd12b-2016-4cc5-9ca1-909c552ee939": {
+      "name": "Honest Apple Juice Box (6 fl. oz.)",
+      "servingSize": "6 fl oz",
+      "nutritionFacts": {
+        "calories": 40,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 10,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 9,
+        "addedSugars": -1,
+        "sodium": 15,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-11140da2-d697-4eb5-aede-ea220e2be5b3": {
+      "name": "Chicken Queso Burrito",
+      "servingSize": "569g",
+      "nutritionFacts": {
+        "calories": 1050,
+        "caloriesFromFat": -1,
+        "protein": 51,
+        "carbs": 126,
+        "fat": 40,
+        "saturatedFat": 17,
+        "sugar": 6,
+        "addedSugars": -1,
+        "sodium": 2580,
+        "dietaryFiber": 19,
+        "cholesterol": 140,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-3e3a0083-f213-43f6-a522-14860252d0b6": {
+      "name": "Quesabirria Burrito",
+      "servingSize": "569g",
+      "nutritionFacts": {
+        "calories": 980,
+        "caloriesFromFat": -1,
+        "protein": 46,
+        "carbs": 124,
+        "fat": 95,
+        "saturatedFat": 17,
+        "sugar": 6,
+        "addedSugars": -1,
+        "sodium": 2600,
+        "dietaryFiber": 19,
+        "cholesterol": 100,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2ee8ef38-a2ae-47df-8143-3ab973050804": {
+      "name": "Minute Maid Lemonade (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 280,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 72,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 70,
+        "addedSugars": -1,
+        "sodium": 35,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2fdc1228-1e33-43b4-85d8-125d494b5393": {
+      "name": "Minute Maid Light Lemonade (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 40,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 10,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 5,
+        "addedSugars": -1,
+        "sodium": 40,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-f638c82e-07f7-4128-b9a9-c6e692b20b3c": {
+      "name": "Minute Maid Lemonade (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 410,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 109,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 105,
+        "addedSugars": -1,
+        "sodium": 55,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-7a72209f-6a9e-498c-9205-f113961417cf": {
+      "name": "Minute Maid Light Lemonade (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 60,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 15,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 8,
+        "addedSugars": -1,
+        "sodium": 55,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c2f29195-ca9d-4208-97d1-297da457bf2a": {
+      "name": "Dasani Water (16.9 fl. oz.)",
+      "servingSize": "16.9 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-19307f87-19f7-42d1-9223-572ce0e4c83d": {
+      "name": "Jarritos Mandarin (12.5 fl.oz)",
+      "servingSize": "12.5 fl oz",
+      "nutritionFacts": {
+        "calories": 140,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 36,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 36,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-1f7698e9-1d55-4b27-8a8d-585fc61038d7": {
+      "name": "Vitamin Water XXX (20 fl. oz.)",
+      "servingSize": "16.9 fl oz",
+      "nutritionFacts": {
+        "calories": 90,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 26,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 26,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-18d8ff9f-179b-4769-b168-b1880938100a": {
+      "name": "Flour Tortilla (12.5\")",
+      "servingSize": "102g",
+      "nutritionFacts": {
+        "calories": 300,
+        "caloriesFromFat": -1,
+        "protein": 8,
+        "carbs": 52,
+        "fat": 7,
+        "saturatedFat": 2.5,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 760,
+        "dietaryFiber": 3,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2eb05cfa-5ea2-43e2-b607-6d28040d71a5": {
+      "name": "Jarritos Lime (12.5 fl.oz)",
+      "servingSize": "12.5 fl oz",
+      "nutritionFacts": {
+        "calories": 170,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 44,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 44,
+        "addedSugars": -1,
+        "sodium": 40,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-d13a81c5-9646-4f71-8d3a-74b8fbd05ce5": {
+      "name": "Caffeine Free Diet Coke (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 65,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-851b88f8-6cf9-4325-b3ef-d350b1b9396e": {
+      "name": "Coca-Cola Zero (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 65,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-1a53b17e-d3d4-49d3-8c61-02f879603457": {
+      "name": "Diet Coke (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 65,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-671aca37-3b78-4ad4-9c42-3097833f285c": {
+      "name": "Dr. Peppers (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 250,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 67,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 65,
+        "addedSugars": -1,
+        "sodium": 90,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-a5510127-6866-4e82-bb82-87a195324b08": {
+      "name": "Hi-C Flashin Fruit Punch (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 270,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 74,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 74,
+        "addedSugars": -1,
+        "sodium": 45,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c7af1b8b-c027-4c21-9e9e-fea3c16e09b2": {
+      "name": "Barqs Root Beer (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 280,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 73,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 73,
+        "addedSugars": -1,
+        "sodium": 110,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c9769811-1084-43fc-a10f-fd421d3abfa8": {
+      "name": "Cherry Coca-Cola (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 270,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 69,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 69,
+        "addedSugars": -1,
+        "sodium": 65,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-170ae7f9-9b20-44a9-b36b-5ca9bd54fb52": {
+      "name": "Coca-Cola (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 240,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 67,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 67,
+        "addedSugars": -1,
+        "sodium": 80,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-17371e69-e98a-4d7f-95d6-aaa6c18258da": {
+      "name": "Diet Dr. Pepper (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 95,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-e1cf99b8-aa82-4a20-8965-39456c1fad0b": {
+      "name": "Mello Yello (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 290,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 78,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 78,
+        "addedSugars": -1,
+        "sodium": 80,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-257e64eb-53ff-4938-ae6d-3a8b07d619fc": {
+      "name": "Fanta Orange (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 270,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 73,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 73,
+        "addedSugars": -1,
+        "sodium": 90,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c622cdaf-b4fc-4c76-b7cc-7365a657f435": {
+      "name": "Sprite (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 260,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 67,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 59,
+        "addedSugars": -1,
+        "sodium": 60,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-5872c90f-4f76-4d63-98f3-731d85faebb4": {
+      "name": "Gold Peak Classic Sweet Tea (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 160,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 41,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 39,
+        "addedSugars": -1,
+        "sodium": 15,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-dba08e58-4153-4b20-b711-22418d7ab69f": {
+      "name": "Gold Peak Classic Blend Tea (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 10,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 3,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 25,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-4c8e7b4a-310a-47d9-8041-3e7841fe4ad4": {
+      "name": "POWERade Mountain Berry Blast (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 130,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 35,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 35,
+        "addedSugars": -1,
+        "sodium": 250,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-ec92ff28-1f25-455e-9d13-bf0be561a93e": {
+      "name": "Gold Peak Southern Tea (Reg)",
+      "servingSize": "20 fl oz",
+      "nutritionFacts": {
+        "calories": 180,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 46,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 44,
+        "addedSugars": -1,
+        "sodium": 15,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-babcca03-7ec9-40e4-bec3-744b0f5a8e33": {
+      "name": "Mello Yello (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 440,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 117,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 117,
+        "addedSugars": -1,
+        "sodium": 120,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-92b8f716-5e2f-434b-91ed-cb84ec302b79": {
+      "name": "Barqs Root Beer (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 430,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 110,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 110,
+        "addedSugars": -1,
+        "sodium": 160,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-2318a2c5-7d82-49ad-992e-a8516755d459": {
+      "name": "Caffeine Free Diet Coke (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 100,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-9609eb47-cee1-4d0a-8a65-e1e290d08ec5": {
+      "name": "Coca-Cola Zero (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 100,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-22268a66-0363-4012-95ee-82acce9d7de5": {
+      "name": "Hi-C Flashin Fruit Punch (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 400,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 111,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 111,
+        "addedSugars": -1,
+        "sodium": 70,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-531b8405-c65c-470d-8ebf-6ca89f52404d": {
+      "name": "Coca-Cola (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 360,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 100,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 100,
+        "addedSugars": -1,
+        "sodium": 120,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-7b8b55e6-68f9-4503-855d-e80a7231e719": {
+      "name": "Cherry Coca-Cola (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 400,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 104,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 104,
+        "addedSugars": -1,
+        "sodium": 100,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-cdf32062-9cac-4d51-b41c-98d5bbf6e70a": {
+      "name": "Dr. Peppers (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 390,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 100,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 98,
+        "addedSugars": -1,
+        "sodium": 140,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-04c238e4-874e-4809-83a2-7b2f0cef7554": {
+      "name": "Diet Dr. Pepper (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 140,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-f5fd7cbe-25ae-4fbe-b5a4-97b286977248": {
+      "name": "Diet Coke (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 100,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-6e17bba9-03ab-4a1c-ab12-782783f60249": {
+      "name": "Gold Peak Southern Tea (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 270,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 69,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 67,
+        "addedSugars": -1,
+        "sodium": 25,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-b7a34511-f066-4d97-9959-3de8c8476ab9": {
+      "name": "Fanta Orange (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 410,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 110,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 110,
+        "addedSugars": -1,
+        "sodium": 135,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-fcc1259b-c43b-46ba-b7d9-b4e8c885c202": {
+      "name": "Gold Peak Classic Blend Tea (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 15,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 4,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 40,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-908f0057-4844-498d-afa1-47fb296041f7": {
+      "name": "Gold Peak Classic Sweet Tea (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 230,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 61,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 58,
+        "addedSugars": -1,
+        "sodium": 25,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-3be3ad06-94d0-4d45-aa82-af84d2543928": {
+      "name": "POWERade Mountain Berry Blast (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 200,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 53,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 53,
+        "addedSugars": -1,
+        "sodium": 380,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-963e9551-35a5-4ade-873c-f53ae2479be1": {
+      "name": "Sprite (Lrg)",
+      "servingSize": "30 fl oz",
+      "nutritionFacts": {
+        "calories": 400,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 101,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 89,
+        "addedSugars": -1,
+        "sodium": 90,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-8b702b64-bea0-4219-b35b-691598b5d52c": {
+      "name": "Mexican Coke (12 fl. Oz)",
+      "servingSize": "12 fl oz",
+      "nutritionFacts": {
+        "calories": 150,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 39,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 39,
+        "addedSugars": -1,
+        "sodium": 85,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-64623560-3ceb-4d3b-b899-7ef8e0280406": {
+      "name": "Cholula Hot & Sweet Chicken Bowl",
+      "servingSize": "418g",
+      "nutritionFacts": {
+        "calories": 610,
+        "caloriesFromFat": -1,
+        "protein": 31,
+        "carbs": 77,
+        "fat": 20,
+        "saturatedFat": 8,
+        "sugar": 10,
+        "addedSugars": -1,
+        "sodium": 1500,
+        "dietaryFiber": 15,
+        "cholesterol": 95,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-49dc0d79-2e86-4526-a400-31efc51ace3f": {
+      "name": "Hand Smashed Guac (1 oz.)",
+      "servingSize": "28g",
+      "nutritionFacts": {
+        "calories": 40,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 2,
+        "fat": 4,
+        "saturatedFat": 0.5,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 80,
+        "dietaryFiber": 2,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-75ca96ef-70fe-4beb-a40b-b1d1cf1e6184": {
+      "name": "Fajita Vegan Bowl",
+      "servingSize": "482g",
+      "nutritionFacts": {
+        "calories": 530,
+        "caloriesFromFat": -1,
+        "protein": 17,
+        "carbs": 79,
+        "fat": 17,
+        "saturatedFat": 2.5,
+        "sugar": 7,
+        "addedSugars": -1,
+        "sodium": 1350,
+        "dietaryFiber": 22,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-4f26e64a-e7c5-4e8e-a09b-6772fd750b97": {
+      "name": "Gold Peak Black Ice Tea, Unsweetened (16.9 fl. oz.)",
+      "servingSize": "16.9 fl oz",
+      "nutritionFacts": {
+        "calories": 0,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 0,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-28778966-6744-48b3-b5bd-2a0dd60ccf26": {
+      "name": "Surf & Turf - Entree portion (8 pieces shrimp + 3.5 oz steak)",
+      "servingSize": "176g",
+      "nutritionFacts": {
+        "calories": 420,
+        "caloriesFromFat": -1,
+        "protein": 31,
+        "carbs": 5,
+        "fat": 30,
+        "saturatedFat": 11,
+        "sugar": 2,
+        "addedSugars": -1,
+        "sodium": 1430,
+        "dietaryFiber": 0,
+        "cholesterol": 175,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-439abeea-2ea5-470d-8612-481470117c0f": {
+      "name": "Citrus Lime Chicken Salad",
+      "servingSize": "421g",
+      "nutritionFacts": {
+        "calories": 540,
+        "caloriesFromFat": -1,
+        "protein": 31,
+        "carbs": 49,
+        "fat": 26,
+        "saturatedFat": 4.5,
+        "sugar": 11,
+        "addedSugars": -1,
+        "sodium": 1290,
+        "dietaryFiber": 16,
+        "cholesterol": 90,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-980e073e-1e28-4f82-8054-6644d9980504": {
+      "name": "Street Style Chicken Tacos (3) Flour",
+      "servingSize": "311g",
+      "nutritionFacts": {
+        "calories": 550,
+        "caloriesFromFat": -1,
+        "protein": 29,
+        "carbs": 46,
+        "fat": 28,
+        "saturatedFat": 8,
+        "sugar": 6,
+        "addedSugars": -1,
+        "sodium": 1690,
+        "dietaryFiber": 8,
+        "cholesterol": 100,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-b8ef2021-b8f8-45d1-ab3a-1a214767404c": {
+      "name": "Romaine Lettuce for Salad (3.5 oz)",
+      "servingSize": "99g",
+      "nutritionFacts": {
+        "calories": 15,
+        "caloriesFromFat": -1,
+        "protein": 1,
+        "carbs": 3,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 10,
+        "dietaryFiber": 2,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-46c04df9-4ade-4d8f-914b-1169904ee205": {
+      "name": "Crunchy Tortilla Shell",
+      "servingSize": "73g",
+      "nutritionFacts": {
+        "calories": 390,
+        "caloriesFromFat": -1,
+        "protein": 7,
+        "carbs": 41,
+        "fat": 22,
+        "saturatedFat": 4.5,
+        "sugar": 1,
+        "addedSugars": -1,
+        "sodium": 150,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-8672a955-4ba2-4bfc-9138-a8b20f003a53": {
+      "name": "Chicken Queso Bowl",
+      "servingSize": "468g",
+      "nutritionFacts": {
+        "calories": 750,
+        "caloriesFromFat": -1,
+        "protein": 43,
+        "carbs": 74,
+        "fat": 33,
+        "saturatedFat": 15,
+        "sugar": 4,
+        "addedSugars": -1,
+        "sodium": 1820,
+        "dietaryFiber": 16,
+        "cholesterol": 140,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-c961da8e-92e7-4270-b625-557ab492a7e8": {
+      "name": "Southwest Steak Burrito",
+      "servingSize": "498g",
+      "nutritionFacts": {
+        "calories": 1220,
+        "caloriesFromFat": -1,
+        "protein": 43,
+        "carbs": 134,
+        "fat": 58,
+        "saturatedFat": 16,
+        "sugar": 6,
+        "addedSugars": -1,
+        "sodium": 2480,
+        "dietaryFiber": 19,
+        "cholesterol": 90,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-14903b26-3759-457a-a86e-2ad0208818d6": {
+      "name": "Double Protein Bowl - Chicken",
+      "servingSize": "546g",
+      "nutritionFacts": {
+        "calories": 700,
+        "caloriesFromFat": -1,
+        "protein": 51,
+        "carbs": 41,
+        "fat": 38,
+        "saturatedFat": 9,
+        "sugar": 7,
+        "addedSugars": -1,
+        "sodium": 1900,
+        "dietaryFiber": 20,
+        "cholesterol": 180,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-5be47265-a915-4472-bf65-7cd3869f412e": {
+      "name": "Double Protein Bowl - Steak",
+      "servingSize": "553g",
+      "nutritionFacts": {
+        "calories": 1040,
+        "caloriesFromFat": -1,
+        "protein": 52,
+        "carbs": 47,
+        "fat": 72,
+        "saturatedFat": 12,
+        "sugar": 9,
+        "addedSugars": -1,
+        "sodium": 2220,
+        "dietaryFiber": 20,
+        "cholesterol": 165,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-e1bfed56-9178-4f40-952d-f2ca8c4fedc9": {
+      "name": "Gold Peak Green Tea (16.9 fl. oz.)",
+      "servingSize": "16.9 fl oz",
+      "nutritionFacts": {
+        "calories": 150,
+        "caloriesFromFat": -1,
+        "protein": 0,
+        "carbs": 38,
+        "fat": 0,
+        "saturatedFat": 0,
+        "sugar": 38,
+        "addedSugars": -1,
+        "sodium": 0,
+        "dietaryFiber": 0,
+        "cholesterol": 0,
+        "calcium": -1,
+        "iron": -1
+      }
+    },
+    "food-210f6844-1e8f-403a-b5e7-adc330570bac": {
+      "name": "Quesabirria Quesadilla",
+      "servingSize": "456g",
+      "nutritionFacts": {
+        "calories": 1080,
+        "caloriesFromFat": -1,
+        "protein": 55,
+        "carbs": 67,
+        "fat": 127,
+        "saturatedFat": 35,
+        "sugar": 6,
+        "addedSugars": -1,
+        "sodium": 2430,
+        "dietaryFiber": 6,
+        "cholesterol": 210,
+        "calcium": -1,
+        "iron": -1
+      }
+    }
+  }
+}
