@@ -15,4 +15,4 @@ The snapshot in `src/qdoba-menu.json` was copied from UPlate’s production Clou
 
 Push to `main` to build and publish the site through GitHub Actions. The Vite build uses relative asset paths for both the GitHub Pages project URL and the custom domain.
 
-For `qdoba.u-plate.com`, add a CNAME record with host `qdoba` and target `u-plate.github.io` in Porkbun, then set the custom domain in the repository’s Pages settings. Enable HTTPS enforcement after GitHub issues the certificate.
+When ready to switch to `qdoba.u-plate.com`, set it in the repository’s Pages settings and then add a CNAME record with host `qdoba` and target `u-plate.github.io` in Porkbun. The default Pages URL redirects once the custom domain is configured. Enable HTTPS enforcement after GitHub issues the certificate.
