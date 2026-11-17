@@ -1,17 +1,19 @@
+import type { Ref } from 'react'
 import { caloriesText, formatNumber, nutrients } from './menu'
 
-export default function NutritionLabel({ totals, count }: {
+export default function NutritionLabel({ totals, count, ref }: {
   totals: Record<string, number | null>
   count: number
+  ref?: Ref<HTMLElement>
 }) {
   const itemText = count === 1 ? '1 menu item' : `${count} menu items`
 
   return (
-    <section className="nutrition panel" aria-labelledby="nutrition-heading">
+    <section className="nutrition" aria-labelledby="nutrition-heading" ref={ref}>
       <h2 id="nutrition-heading">Nutrition Facts</h2>
-      <p className="label-context">Meal total <span aria-hidden="true">·</span> {itemText}</p>
+      <p className="label-context">Entire meal ({itemText})</p>
       <div className="calorie-row">
-        <div><small>Amount in meal</small><strong>Calories</strong></div>
+        <strong>Calories</strong>
         <strong className="calorie-number">{caloriesText(totals.calories)}</strong>
       </div>
       {count > 0 && totals.caloriesFromFat !== null && (

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { Minus, Plus, Search, Trash2, X } from 'lucide-react'
+import { Minus, Plus, Search, X } from 'lucide-react'
 import {
   caloriesText, foods, mealNutrition, normalize, variantFor,
   type MealItem, type Portion,
@@ -40,10 +40,12 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
   onClose: () => void
 }) {
   const dialog = useRef<HTMLDialogElement>(null)
+  const ingredientSearch = useRef<HTMLInputElement>(null)
   const [draft, setDraft] = useState(initial)
   const [showOptions, setShowOptions] = useState(initial.portions.length === 0)
   const [query, setQuery] = useState('')
   const { item, portions, servings, size } = draft
+  const optionsOpen = showOptions || portions.length === 0
   const variant = variantFor(item, size)
   const selected = new Set(portions.map(portion => portion.foodId))
   const available = [...new Map([...variant.foods, ...variant.possibleFoods].map(portion => [portion.foodId, portion])).values()]
@@ -53,8 +55,14 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
 
   useEffect(() => {
     const element = dialog.current!
+    const trigger = document.activeElement
     element.showModal()
-    return () => element.close()
+    return () => {
+      element.close()
+      if (trigger instanceof HTMLElement && trigger.isConnected) {
+        trigger.focus({ preventScroll: true })
+      }
+    }
   }, [])
 
   function updatePortion(index: number, quantity: number) {
@@ -68,6 +76,7 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
 
   function addPortion(portion: Portion) {
     setDraft(current => ({ ...current, portions: [...current.portions, portion] }))
+    setShowOptions(true)
   }
 
   return (
@@ -76,10 +85,7 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
       onClick={event => { if (event.target === event.currentTarget) onClose() }}>
       <div className="editor-layout">
         <header className="editor-header">
-          <div>
-            <p>{editing ? 'Edit meal item' : 'Customize item'}</p>
-            <h2 id="editor-heading">{item.name}</h2>
-          </div>
+          <h2 id="editor-heading">{item.name}</h2>
           <button type="button" className="icon-button close-button" onClick={onClose} aria-label="Close editor">
             <X size={20} />
           </button>
@@ -90,10 +96,10 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
               <legend>Size</legend>
               <div className="size-options">
                 {item.sizes.map((option, index) => (
-                  <label className="pill" key={option.name}>
+                  <label className="size-option" key={option.name}>
                     <input type="radio" name="size" checked={size === index}
                       onChange={() => {
-                        setDraft({ ...draft, size: index, portions: option.foods })
+                        setDraft(current => ({ ...current, size: index, portions: option.foods }))
                         setShowOptions(option.foods.length === 0)
                         setQuery('')
                       }} />
@@ -109,7 +115,7 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
               onChange={servings => setDraft(current => ({ ...current, servings }))} />
           </div>
           <h3>Ingredients</h3>
-          {portions.length === 0 && <p className="empty-ingredients">Choose ingredients to build this item.</p>}
+          {portions.length === 0 && <p className="empty-ingredients">Choose at least one ingredient.</p>}
           <ul className="ingredients-list">
             {portions.map(({ foodId, quantity }, index) => {
               const food = foods[foodId]
@@ -117,24 +123,27 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
                 <li key={`${foodId}-${index}`}>
                   <div className="ingredient-name">
                     <strong>{food.name}</strong>
-                    <small>{food.servingSize && `${food.servingSize} per portion · `}{caloriesText(food.nutritionFacts.calories * quantity)} Cal</small>
+                    {food.servingSize && <small>{food.servingSize} per portion</small>}
                   </div>
                   <QuantityControl name={food.name} quantity={quantity} minimum={0}
                     onChange={next => updatePortion(index, next)} />
                   <button type="button" className="icon-button remove-button" aria-label={`Remove ${food.name}`}
-                    onClick={() => updatePortion(index, 0)}><Trash2 size={16} /></button>
+                    onClick={() => updatePortion(index, 0)}><X size={17} aria-hidden="true" /></button>
                 </li>
               )
             })}
           </ul>
-          <button type="button" className="secondary add-ingredients" aria-expanded={showOptions}
-            aria-controls="available-ingredients" onClick={() => setShowOptions(!showOptions)}>
-            {showOptions ? <Minus size={16} /> : <Plus size={16} />} {showOptions ? 'Hide options' : 'Add ingredients'}
-          </button>
-          <div id="available-ingredients" hidden={!showOptions} className="ingredient-options">
+          {portions.length > 0 && (available.length > 0 || showOptions) && (
+            <button type="button" className="secondary add-ingredients" aria-expanded={showOptions}
+              aria-controls="available-ingredients" onClick={() => setShowOptions(!showOptions)}>
+              {showOptions ? <Minus size={16} aria-hidden="true" /> : <Plus size={16} aria-hidden="true" />}
+              {showOptions ? 'Hide ingredient options' : 'Add ingredients'}
+            </button>
+          )}
+          <div id="available-ingredients" hidden={!optionsOpen} className="ingredient-options">
             <label className="search-box">
               <Search size={17} aria-hidden="true" />
-              <input type="search" placeholder="Search ingredients" aria-label="Search ingredients"
+              <input ref={ingredientSearch} type="search" placeholder="Search ingredients" aria-label="Search ingredients"
                 value={query} onChange={event => setQuery(event.target.value)} />
             </label>
             <ul className="ingredients-list">
@@ -147,7 +156,10 @@ export default function ItemEditor({ initial, editing, onSave, onClose }: {
                       <small>{caloriesText(food.nutritionFacts.calories * portion.quantity)} Cal</small>
                     </div>
                     <button type="button" className="icon-button add-button"
-                      aria-label={`Add ${food.name}`} onClick={() => addPortion(portion)}><Plus size={17} /></button>
+                      aria-label={`Add ${food.name}`} onClick={event => {
+                        addPortion(portion)
+                        if (event.detail === 0) ingredientSearch.current?.focus()
+                      }}><Plus size={17} aria-hidden="true" /></button>
                   </li>
                 )
               })}
